@@ -20,10 +20,19 @@ public:
         int maxPathDown(TreeNode* node, int &maxi) 
         {
             if (node == NULL) return 0;
-int left = max(0, maxPathDown(node->left, maxi));
-int right = max(0, maxPathDown(node->right, maxi));
-maxi = max(maxi, left + right + node->val);
-return max(left, right) + node->val;
+            int left =  maxPathDown(node->left, maxi);
+            if(left<0)
+            {
+                left=0;
+            }
+            int right = maxPathDown(node->right, maxi);
+            if (right<0)
+            {
+                right =0;
+            }
+            
+            maxi = max(maxi, left + right + node->val);
+            return max(left, right) + node->val;
                 
         }  
 };
