@@ -10,6 +10,7 @@ public:
            
             for (int i = 0; i < n; i++) {
                 
+                
                 if (number & (1 << i)) {
                     q.push_back(nums[i]);
                 }
