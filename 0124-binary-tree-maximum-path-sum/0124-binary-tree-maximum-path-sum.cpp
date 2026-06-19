@@ -24,6 +24,17 @@ public:
         {
             return 0;
         }
+        /* you should know that when we write this  int lv = max(0,cal(root->left,maxi)); we are puring the -ve , values that are comming we are not taking it 
+                50
+            /       \
+            20       40
+                /         \
+                -30       -20 
+        
+        the answer for this would eb 20+40+50. so we cant carry the -30 we instead we return 0 instead.
+        
+        
+        */
         int lv = max(0,cal(root->left,maxi));
         int rv= max(0,cal(root-> right,maxi));
         maxi=max(maxi,root->val+lv+rv);
