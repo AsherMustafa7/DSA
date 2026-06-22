@@ -18,6 +18,7 @@ MY DSA progress
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
@@ -73,6 +74,7 @@ MY DSA progress
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsherMustafa7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,5 @@ MY DSA progress
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsherMustafa7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
