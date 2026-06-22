@@ -6,6 +6,7 @@ MY DSA progress
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
 ## Dynamic Programming
@@ -83,4 +84,8 @@ MY DSA progress
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
