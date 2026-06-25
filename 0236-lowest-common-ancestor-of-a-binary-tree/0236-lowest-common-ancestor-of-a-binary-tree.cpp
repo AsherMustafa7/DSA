@@ -10,46 +10,37 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> v1;
-        vector <TreeNode*> v2;
-        bool b1=check(root,v1,p);
-        bool b2=check(root,v2,q);
-        if(!b1 || !b2)
-        {
-            return NULL;
-        }
-        TreeNode* val;
-        for(int i=0; i <min(v1.size(),v2.size());i++)
-        {
-            if(v1[i]->val==v2[i]->val)
-            {
-                val=v1[i];
-            }
-            else
-            break;
-        }
-        return val;
+        return check(root,p,q);
     }
-    bool check(TreeNode* root,vector<TreeNode*>&v,TreeNode* f)
+    TreeNode* check(TreeNode* root, TreeNode* p, TreeNode* q)
     {
         if(root==NULL)
         {
-            return false;
+            return NULL;
         }
-        v.push_back(root);
-        if(root==f)
+        if(root==p)
         {
-            return true;
+            return p;
         }
-        if(check(root->left,v,f))
+        if(root==q)
         {
-            return true;
+            return q;
         }
-        if(check(root->right, v, f))
+        TreeNode* lh=check(root->left,p,q);
+        TreeNode* rh=check(root->right,p,q);
+        if(lh==NULL && rh!=NULL)
         {
-            return true;
+            return rh;
         }
-        v.pop_back();
-        return false;
+        if(lh!=NULL && rh==NULL)
+        {
+            return lh;
+        }
+        if(lh==NULL && rh==NULL)
+        {
+            return NULL;
+        }
+        
+        return root;
     }
 };
