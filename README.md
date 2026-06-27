@@ -95,10 +95,12 @@ MY DSA progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +121,12 @@ MY DSA progress
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
