@@ -6,6 +6,7 @@ MY DSA progress
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
@@ -124,6 +125,7 @@ MY DSA progress
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
