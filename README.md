@@ -35,6 +35,7 @@ MY DSA progress
 | [0104-maximum-depth-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -85,6 +86,7 @@ MY DSA progress
 | [0104-maximum-depth-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -106,6 +108,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -132,6 +135,7 @@ MY DSA progress
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -140,9 +144,14 @@ MY DSA progress
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
