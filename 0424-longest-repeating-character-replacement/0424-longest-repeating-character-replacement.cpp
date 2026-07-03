@@ -22,10 +22,7 @@ public:
                 l++;
                 len=r-l+1;
                 maxf = max(maxf, mp[s[r] - 'A']);
-                if(len-maxf<=k)
-                {
-                    max_l=max(max_l,len);
-                }
+                
             }
             r++;
         }
