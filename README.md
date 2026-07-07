@@ -10,6 +10,7 @@ MY DSA progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/AsherMustafa7/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -22,6 +23,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
@@ -192,4 +194,8 @@ MY DSA progress
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
