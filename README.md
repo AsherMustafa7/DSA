@@ -12,6 +12,7 @@ MY DSA progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +208,7 @@ MY DSA progress
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@ MY DSA progress
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Binary Indexed Tree
 |  |
