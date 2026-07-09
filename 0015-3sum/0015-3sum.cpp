@@ -1,34 +1,51 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        set<vector<int>>s;
-        unordered_map<int,int>mp;
-        for(int i =0; i <nums.size();i++)
+    vector<vector<int>> threeSum(vector<int>& nums) 
+    {
+        vector<vector<int>>v;
+        sort(nums.begin(),nums.end());
+        int i=0; int j=1;
+        int k=nums.size()-1;
+        while(i<nums.size()-2)
         {
-            mp[nums[i]]=i;
-        }
-        if(mp.size()==1 && mp.find(0)!=mp.end())
-        {
-            return vector<vector<int>>{{0,0,0}};
-        }
-        
-        for(int i=0; i <nums.size();i++)
-        {
-            
-            for(int j=i+1;j<nums.size();j++)
+            while(j<k)
             {
-                if(mp.find(-nums[i]-nums[j])!=mp.end())
+                if(nums[i]+nums[j]+nums[k]==0)
                 {
-                    if(i!=mp[-nums[i]-nums[j]] && j!=mp[-nums[i]-nums[j]])
+                    v.push_back({nums[i],nums[j],nums[k]});
+                    j++;
+                    if(j==k)
                     {
-                        vector<int> temp={nums[i],nums[j],-nums[i]-nums[j]};
-                        sort(temp.begin(), temp.end());
-                        s.insert(temp);
+                        break;
                     }
+                    k--;
+                    while(j < k && nums[j] == nums[j-1])
+                    {
+                        j++;
+                    }
+                    while(j < k && nums[k] == nums[k+1])
+                    {
+                        k--;
+                    }
+
+                }
+                else if(nums[i]+nums[j]+nums[k]<0)
+                {
+                    j++;
+                }
+                else
+                {
+                    k--;
                 }
             }
+            i++;
+            while(i < nums.size() && nums[i] == nums[i-1])
+            {
+                i++;
+            }
+            j=i+1;
+            k=nums.size()-1;
         }
-        vector<vector<int>> ans(s.begin(),s.end());
-        return ans;
+        return v;
     }
 };
