@@ -190,6 +190,7 @@ MY DSA progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsherMustafa7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,11 +206,13 @@ MY DSA progress
 | [0930-binary-subarrays-with-sum](https://github.com/AsherMustafa7/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
