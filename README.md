@@ -142,6 +142,7 @@ MY DSA progress
 | [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/AsherMustafa7/DSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@ MY DSA progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsherMustafa7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
