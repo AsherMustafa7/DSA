@@ -24,6 +24,7 @@ MY DSA progress
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
