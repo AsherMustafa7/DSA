@@ -17,6 +17,7 @@ MY DSA progress
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/AsherMustafa7/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@ MY DSA progress
 | [0031-next-permutation](https://github.com/AsherMustafa7/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -212,6 +214,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
