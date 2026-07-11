@@ -31,6 +31,7 @@ MY DSA progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@ MY DSA progress
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsherMustafa7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -196,6 +198,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsherMustafa7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AsherMustafa7/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AsherMustafa7/DSA/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
