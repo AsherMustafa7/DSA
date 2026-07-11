@@ -196,6 +196,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsherMustafa7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/AsherMustafa7/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AsherMustafa7/DSA/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
