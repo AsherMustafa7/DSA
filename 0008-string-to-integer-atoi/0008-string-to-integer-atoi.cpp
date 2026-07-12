@@ -3,37 +3,43 @@ public:
     int myAtoi(string s) 
     {
         s.erase(0,s.find_first_not_of(' '));
-        if(s.empty())
+        int sign =1;
+        int i =0;
+        cout<<"i "<<i<<endl;
+        if(s[0]=='-')
+        {
+            sign=-1;
+            i++;
+        }
+        else if(s[0]=='+')
+        {
+            sign=1;
+            i++;
+        }
+        cout<<"i "<<i<<endl;
+        if(!isdigit(s[i]))
         {
             return 0;
         }
-        int sign=1;
-        int i =0;
-        if(s[i]=='-')
+        cout<<"i "<<i<<endl;
+        return number(s,0,i,sign);
+    }
+    int number(string &s,long long num,int index, int sign)
+    {
+        if(index>=s.size() || !isdigit(s[index]))
         {
-            sign =-1;
-            i++;
+            return sign*num;
         }
-        else if(s[i]=='+')
+        num= num*10+(s[index]-'0');
+        cout<< num<< endl;
+        if(sign==1&& num>INT_MAX)
         {
-            i++;
+            return INT_MAX;
         }
-
-        long long ans=0;
-        
-        while(i<s.size()&& isdigit(s[i]))
+        if(sign==-1 && -num<INT_MIN)
         {
-            ans=ans*10+(s[i]-'0');
-            if(ans>INT_MAX && sign==1)
-            {
-                return INT_MAX;
-            }
-            if(-ans<INT_MIN && sign==-1)
-            {
-                return INT_MIN;
-            }
-            i++;
+            return INT_MIN;
         }
-        return sign*ans;
+        return number(s,num,index+1,sign);
     }
 };
