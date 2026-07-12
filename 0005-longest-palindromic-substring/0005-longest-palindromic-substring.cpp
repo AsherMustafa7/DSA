@@ -1,40 +1,36 @@
 class Solution {
 public:
-    string longestPalindrome(string& s) 
+    string longestPalindrome(string s) 
     {
-        
-        string ans="";
-        for(int l=0; l<s.size();l++)
+       
+        string str="";
+        string odd="";
+        string even="";
+        if(s.size()==1)
+        return s;
+        for(int i =0; i<s.size()-1;i++)
         {
-            for(int r=s.size()-1; r>=l;r--)
-            {
-                if(check_pal(s,l,r) && ((r-l+1)>ans.size()))
+                even=func(s,i,i+1);
+                if(str.size()<even.size())
                 {
-                    
-                    
-                        ans=s.substr(l,r-l+1);
-                        break;
-                    
-                    
+                    str=even;
                 }
-            }
+                odd=func(s,i,i);
+                if(str.size()<odd.size())
+                {
+                    str=odd;
+                }
+            
         }
-        return ans;
-    }
-    bool check_pal(string& s, int p, int q)
+        return str;
+     }
+    string func(string &s, int l,int r)
     {
-        
-        while(p<q)
+        while(l>=0&& r<s.size() && s[l]==s[r] )
         {
-            if(s[p]!=s[q])
-            {
-                return false;
-                 
-            }
-            p++;
-            q--;
+            l--;
+            r++;
         }
-        return true;
-          
+        return s.substr(l+1,r-l-1);;
     }
 };
