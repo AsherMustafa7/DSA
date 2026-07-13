@@ -15,6 +15,7 @@ MY DSA progress
 | [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
@@ -167,6 +168,7 @@ MY DSA progress
 | ------- |
 | [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -293,5 +295,6 @@ MY DSA progress
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
