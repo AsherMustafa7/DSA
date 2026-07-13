@@ -165,6 +165,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +209,7 @@ MY DSA progress
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -285,4 +287,8 @@ MY DSA progress
 | ------- |
 | [0050-powx-n](https://github.com/AsherMustafa7/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
