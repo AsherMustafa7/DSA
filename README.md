@@ -32,6 +32,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AsherMustafa7/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AsherMustafa7/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ MY DSA progress
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -204,6 +206,7 @@ MY DSA progress
 | [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AsherMustafa7/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AsherMustafa7/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AsherMustafa7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
