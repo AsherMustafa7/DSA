@@ -1,27 +1,33 @@
 class Solution {
 public:
-    vector<string> validStrings(int n) 
-    {
+    vector<string> validStrings(int n) {
+        vector<string>str;
+        if(n==1)
+        {
+            str.push_back("0");
+            str.push_back("1");
+            return str;
+        }
         string s(n,'0');
-        vector<string>result;
-        generate(n,"",result);
-        return result;
+        find_com(s,0,str);
+        return str;
     }
-    
-    void generate(int n, string curr, vector<string>& result) 
+    void find_com(string s, int i, vector<string>&str)
     {
-        // Base case: if length is n, add to result
-        if (curr.length() == n) {
-            result.push_back(curr);
+        if(i==s.size())
+        {
+            if(s.find('1')!=-1)
+            {
+                str.push_back(s);
+            }
             return;
         }
-
-        // Always try adding '0'
-        generate(n, curr + "1", result);
-
-        // Add '1' only if previous char is not '1'
-        if (curr.empty() || curr[curr.size()-1] != '0') {
-            generate(n, curr + "0", result);
+        if (i == 0 || s[i - 1] == '1')
+        {
+            s[i] = '0';
+            find_com(s, i + 1, str);
         }
+        s[i] = '1';
+        find_com(s, i + 1, str);
     }
 };
