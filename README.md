@@ -26,6 +26,7 @@ MY DSA progress
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsherMustafa7/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/AsherMustafa7/DSA/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/AsherMustafa7/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -196,6 +197,7 @@ MY DSA progress
 | [0450-delete-node-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/AsherMustafa7/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
