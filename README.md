@@ -26,6 +26,7 @@ MY DSA progress
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/AsherMustafa7/DSA/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsherMustafa7/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ MY DSA progress
 | [0039-combination-sum](https://github.com/AsherMustafa7/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/AsherMustafa7/DSA/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
