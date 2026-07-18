@@ -6,6 +6,7 @@ MY DSA progress
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AsherMustafa7/DSA/tree/master/0031-next-permutation) |
@@ -232,6 +233,7 @@ MY DSA progress
 | [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AsherMustafa7/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AsherMustafa7/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AsherMustafa7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -323,4 +325,8 @@ MY DSA progress
 | ------- |
 | [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
