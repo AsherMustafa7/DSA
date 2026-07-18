@@ -58,6 +58,7 @@ MY DSA progress
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AsherMustafa7/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -173,6 +174,7 @@ MY DSA progress
 | ------- |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -236,6 +238,7 @@ MY DSA progress
 | [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AsherMustafa7/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
