@@ -7,11 +7,10 @@ public:
         {
             if((num[i]-'0')%2!=0)
             {
-                break;
+                return num.substr(0,i+1);
             }
         }
-        if(i!=-1)
-        return num.substr(0,i+1);
+        
         return "";
     }
 };
