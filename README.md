@@ -243,6 +243,7 @@ MY DSA progress
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -271,6 +272,7 @@ MY DSA progress
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/AsherMustafa7/DSA/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -332,4 +334,8 @@ MY DSA progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
