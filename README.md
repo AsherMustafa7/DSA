@@ -155,6 +155,7 @@ MY DSA progress
 | [0151-reverse-words-in-a-string](https://github.com/AsherMustafa7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -196,6 +197,7 @@ MY DSA progress
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsherMustafa7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
