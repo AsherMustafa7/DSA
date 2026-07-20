@@ -11,15 +11,16 @@ public:
     bool hasCycle(ListNode *head) 
     {
         unordered_map<ListNode*,int>mp;
-        ListNode* newnode=head;
-        while(newnode!=NULL)
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL)
         {
-            mp[newnode]++;
-            if(mp[newnode]>1)
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast)
             {
                 return true;
             }
-            newnode=newnode->next;
         }
         return false;
     }
