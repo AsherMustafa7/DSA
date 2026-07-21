@@ -30,17 +30,19 @@ public:
             return nullptr;
         }
         
-        ListNode* head=pq.top();
-        pq.pop();
-
-        if(head->next!=NULL)
-        {
-            pq.push(head->next);
-        }
-        ListNode* temp=head;
-
+        ListNode* head=nullptr;
+        ListNode* temp=nullptr;
+         if(head==nullptr)
+            {
+                head=pq.top();
+                temp=head;
+                pq.pop();
+                if(temp->next!=NULL)
+                pq.push(temp->next);
+            }
         while(!pq.empty())
         {
+           
                 ListNode* newnode=nullptr;
                 newnode=pq.top();
                 pq.pop();
