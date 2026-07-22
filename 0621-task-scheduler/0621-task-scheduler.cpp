@@ -9,49 +9,22 @@ public:
             freq[c - 'A']++;
         }
 
-        // Max Heap
-        priority_queue<int> pq;
+        int maxFreq = 0;
 
         for(int x : freq)
         {
-            if(x > 0)
-                pq.push(x);
+            maxFreq = max(maxFreq, x);
         }
 
-        int time = 0;
+        int countMax = 0;
 
-        while(!pq.empty())
+        for(int x : freq)
         {
-            vector<int> temp;
-
-            // One cycle = n + 1 slots
-            for(int i = 0; i <= n; i++)
-            {
-                if(!pq.empty())
-                {
-                    int cnt = pq.top();
-                    pq.pop();
-
-                    cnt--;
-
-                    if(cnt > 0)
-                        temp.push_back(cnt);
-                }
-
-                time++;
-
-                // If everything is finished
-                if(pq.empty() && temp.empty())
-                    return time;
-            }
-
-            // Put unfinished tasks back
-            for(int x : temp)
-            {
-                pq.push(x);
-            }
+            if(x == maxFreq)
+                countMax++;
         }
 
-        return time;
+        return max((int)tasks.size(),
+                   (maxFreq - 1) * (n + 1) + countMax);
     }
 };
