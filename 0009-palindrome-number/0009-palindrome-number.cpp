@@ -2,18 +2,16 @@ class Solution {
 public:
     bool isPalindrome(int x) 
     {
-        string s =to_string(x);
-        int l=0; 
-        int r =s.size()-1;
-        while(l<r)
+        int copy=x;
+        long long newi=0;
+        while(copy>0)
         {
-            if(s[l]!=s[r])
-            {
-                return false;
-            }
-            l++;
-            r--;
+            int d = copy%10;
+            newi= newi*10+d;
+            copy=copy/10;
         }
+        if(newi==(long long)x)
         return true;
+        return false;
     }
 };
