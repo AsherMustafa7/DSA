@@ -7,11 +7,13 @@ public:
         {
             mp[nums[i]]++;
         }
-        for(auto it:mp)
+        auto it=mp.begin();
+        while(it!=mp.end())
         {
-            cout<< it.first<< ":" << it.second<<endl;
-            if(it.second==1)
-            return it.first;
+            
+            if(it->second==1)
+            return it->first;
+            it++;
         }
         return -1;
     }
