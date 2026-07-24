@@ -32,6 +32,7 @@ MY DSA progress
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/AsherMustafa7/DSA/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AsherMustafa7/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
@@ -72,6 +73,7 @@ MY DSA progress
 | [0160-intersection-of-two-linked-lists](https://github.com/AsherMustafa7/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AsherMustafa7/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AsherMustafa7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -194,6 +196,7 @@ MY DSA progress
 | ------- |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
@@ -320,6 +323,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
