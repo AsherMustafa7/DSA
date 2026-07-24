@@ -4,20 +4,24 @@ public:
     {
         int maxlen=0;
         int len=0;
-        for(int i =0; i <nums.size();i++)
+        int l=0;
+        int r=0;
+        while(l<nums.size() && r<nums.size())
         {
-            if(nums[i]==0)
+            if(nums[l]==0)
             {
-                len=0;
+                l++;
             }
-            if(nums[i]==1)
+            if(nums[r]==1)
             {
-                len++;
+                len=r-l+1;
+                maxlen=max(len,maxlen);
             }
-            if(maxlen<len)
+            else
             {
-                maxlen=max(maxlen,len);
+                l=r+1;
             }
+            r++;
         }
         return maxlen;
     }
