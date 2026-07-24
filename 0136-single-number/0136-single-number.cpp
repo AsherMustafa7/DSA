@@ -8,12 +8,10 @@ public:
             mp[nums[i]]++;
         }
         auto it=mp.begin();
-        while(it!=mp.end())
+        for(auto it=mp.begin();it!=mp.end();it++)
         {
-            
             if(it->second==1)
             return it->first;
-            it++;
         }
         return -1;
     }
