@@ -9,6 +9,7 @@ MY DSA progress
 | [0001-two-sum](https://github.com/AsherMustafa7/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AsherMustafa7/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AsherMustafa7/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AsherMustafa7/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -164,6 +165,7 @@ MY DSA progress
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AsherMustafa7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AsherMustafa7/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AsherMustafa7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AsherMustafa7/DSA/tree/master/0031-next-permutation) |
@@ -195,6 +197,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AsherMustafa7/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AsherMustafa7/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AsherMustafa7/DSA/tree/master/0242-valid-anagram) |
