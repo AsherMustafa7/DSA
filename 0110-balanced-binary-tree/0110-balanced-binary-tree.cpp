@@ -11,29 +11,23 @@
  */
 class Solution {
 public:
-    bool isBalanced(TreeNode* root) {
-        // The intution here is that the height(left)- height(right)<=1
-        // thats a balanced binary tree.
-        int flag=1;
-        cal(root,flag);
-        if(flag==1)
-        {
-            return true;
-        }
-        else return false;
-    }
-    int cal (TreeNode* root, int &flag)
+    bool isBalanced(TreeNode* root) 
     {
-        if(root==NULL || flag==0)
+        bool flag=true;
+        int h=checkb(root,flag);
+        
+        return flag;
+    }
+    int checkb(TreeNode* root, bool &flag)
+    {
+        if(root==NULL)
         {
             return 0;
         }
-        int lh=cal(root->left,flag);
-        int rh= cal(root->right,flag);
-        if(abs(lh-rh) >1)
-        {
-            flag =0;
-        }
-        return 1+max(lh,rh);
+        int l= 1+checkb(root->left,flag);
+        int r= 1+checkb(root->right,flag);
+        if(abs(l - r) > 1)
+        flag=false;
+        return max(l,r);
     }
 };
