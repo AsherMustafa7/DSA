@@ -15,7 +15,7 @@ public:
     {
         int maxi=INT_MIN;
         cal(root,maxi);
-        return maxi-2;
+        return maxi;
     }
     int cal(TreeNode* root, int &maxi)
     {
@@ -23,9 +23,9 @@ public:
         {
             return 0;
         }
-        int l=1+cal(root->left,maxi);
-        int r=1+cal(root->right,maxi);
+        int l=cal(root->left,maxi);
+        int r=cal(root->right,maxi);
         maxi=max(maxi,l+r);
-        return max(l,r);
+        return 1+ max(l,r);
     }
 };
