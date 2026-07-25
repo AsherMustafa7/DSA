@@ -52,6 +52,7 @@ MY DSA progress
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ MY DSA progress
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
@@ -110,6 +112,7 @@ MY DSA progress
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -161,6 +164,7 @@ MY DSA progress
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
 |  |
