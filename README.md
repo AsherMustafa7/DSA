@@ -215,6 +215,7 @@ MY DSA progress
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -323,6 +324,7 @@ MY DSA progress
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
