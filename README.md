@@ -185,6 +185,7 @@ MY DSA progress
 | [0283-move-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -238,6 +239,7 @@ MY DSA progress
 | [0206-reverse-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
