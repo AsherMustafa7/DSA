@@ -13,18 +13,19 @@ class Solution {
 public:
     int countNodes(TreeNode* root) 
     {
-        int count=0;
-        cnt( root,count);
-        return count;
+        int flag=0;
+        int n=cnt( root);
+        return n;
+        
     }
-    void cnt(TreeNode* root, int & count)
+    int cnt(TreeNode* root)
     {
         if(root==NULL)
         {
-            return;
+            return 0;
         }
-        count++;
-        cnt(root->left,count);
-        cnt(root->right,count);
+        int l=cnt(root->left);
+        int r=cnt(root->right);
+        return 1+l+r;
     }
 };
