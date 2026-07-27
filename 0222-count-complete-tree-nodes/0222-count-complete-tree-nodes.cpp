@@ -13,19 +13,31 @@ class Solution {
 public:
     int countNodes(TreeNode* root) 
     {
-        int flag=0;
-        int n=cnt( root);
-        return n;
-        
+        if(root==nullptr) return 0;
+        int l =lpp(root);
+        int r =rpp(root);
+        if(l==r){
+            return pow(2,l) -1 ;
+        }
+
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
-    int cnt(TreeNode* root)
+    int lpp(TreeNode* root)
     {
         if(root==NULL)
         {
             return 0;
         }
-        int l=cnt(root->left);
-        int r=cnt(root->right);
-        return 1+l+r;
+        int l=1+lpp(root->left);  
+        return l;
+    }
+    int rpp(TreeNode* root)
+    {
+        if(root==NULL)
+        {
+            return 0;
+        }
+        int r=1+rpp(root->right);  
+        return r;
     }
 };
