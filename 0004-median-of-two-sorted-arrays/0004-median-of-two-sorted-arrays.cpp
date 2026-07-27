@@ -1,49 +1,33 @@
-class Solution 
-{
+class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) 
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2)
     {
-        vector<int>v;
-        int r= 0;
-        int l=0;
-        while(l<nums1.size() && r<nums2.size())
+        int count=0;
+        int l=0; int r=0;
+        int n1=nums1.size();
+        int n2=nums2.size();
+        int prev = 0;
+        int curr = 0;
+
+        for(int count=0; count<=(n1+n2)/2;count++)
         {
-            if(nums1[l]<=nums2[r])
+            prev = curr;
+            if(l<n1 && (r >= n2 || nums1[l] <= nums2[r]) )
             {
-                v.push_back(nums1[l]);
+                curr=nums1[l];
                 l++;
             }
             else
             {
-                v.push_back(nums2[r]);
+                curr=nums2[r];
                 r++;
             }
         }
-        if(l<nums1.size())
+        if((n1+n2) % 2 == 1)
         {
-            while(l<nums1.size())
-            {
-                v.push_back(nums1[l]);
-                l++;
-            }
+            return curr;
         }
-        if(r<nums2.size())
-        {
-            while(r<nums2.size())
-            {
-                v.push_back(nums2[r]);
-                r++;
-            }
-        }
-        for(auto i:v)
-        {
-            cout<<i << " ";
-        }
-        if(v.size()%2!=0)
-        {
-            return (1.0)*(v[v.size()/2]);
-        }
-        
-        return ((double)v[v.size()/2] + (double)v[v.size()/2 - 1]) / 2.0;;
+
+        return (prev + curr) / 2.0;
     }
 };
