@@ -104,6 +104,7 @@ MY DSA progress
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AsherMustafa7/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -156,6 +157,7 @@ MY DSA progress
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AsherMustafa7/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +256,7 @@ MY DSA progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsherMustafa7/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AsherMustafa7/DSA/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/AsherMustafa7/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/AsherMustafa7/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/AsherMustafa7/DSA/tree/master/0367-valid-perfect-square) |
@@ -397,6 +400,7 @@ MY DSA progress
 | ------- |
 | [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AsherMustafa7/DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AsherMustafa7/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
