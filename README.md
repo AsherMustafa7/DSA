@@ -50,6 +50,7 @@ MY DSA progress
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/AsherMustafa7/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -223,6 +224,7 @@ MY DSA progress
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
@@ -391,6 +393,7 @@ MY DSA progress
 | [0023-merge-k-sorted-lists](https://github.com/AsherMustafa7/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
