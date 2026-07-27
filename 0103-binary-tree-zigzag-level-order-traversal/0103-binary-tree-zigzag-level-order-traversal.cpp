@@ -15,7 +15,7 @@ public:
     {
 
         vector<vector<int>> vec;
-        vector<vector<int>> ans;
+       
         queue<TreeNode*> q;
          if(root==NULL)
         {
@@ -39,25 +39,13 @@ public:
         }
         for(int i=0; i <vec.size();i++)
         {
-            vector<int>temp;
-            if(f==1)
+            
+            if(i%2!=0)
             {
-                for(int j=0; j<vec[i].size();j++)
-                {
-                    temp.push_back(vec[i][j]);
-                }
-                f=0;
+                reverse(vec[i].begin(),vec[i].end());
             }
-            else
-            {
-                for(int j=vec[i].size()-1;j>=0;j--)
-                {
-                    temp.push_back(vec[i][j]);
-                }
-                f=1;
-            }
-            ans.push_back(temp);
+            
         }
-        return ans;
+        return vec;
     }
 };
