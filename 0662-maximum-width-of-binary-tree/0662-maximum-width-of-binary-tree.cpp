@@ -8,19 +8,19 @@ public:
 
         int ans = 0;
 
-        queue<pair<TreeNode*, unsigned long long>> q;
+        queue<pair<TreeNode*, long long>> q;
         q.push({root, 0});
 
         while(!q.empty())
         {
             int size = q.size();
-
-            unsigned long long mmin = q.front().second;
-            unsigned long long first, last;
+            long long minn=q.front().second;
+            
+            long long first, last;
 
             for(int i = 0; i < size; i++)
             {
-                unsigned long long cur_id = q.front().second - mmin;
+                long long cur_id = q.front().second-minn;
                 TreeNode* node = q.front().first;
                 q.pop();
 
