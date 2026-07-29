@@ -15,7 +15,7 @@ public:
     {
         int maxi=0;
         findd(root,maxi);
-        return maxi-2;
+        return maxi;
     }
     int findd(TreeNode* root,int &maxi)
     {
@@ -25,7 +25,7 @@ public:
         }
         int l= 1+findd(root->left,maxi);
         int r=1+findd(root->right,maxi);
-        maxi=max(maxi,l+r);
+        maxi=max(maxi,l+r-2);
         return max(l,r);
     }
 };
