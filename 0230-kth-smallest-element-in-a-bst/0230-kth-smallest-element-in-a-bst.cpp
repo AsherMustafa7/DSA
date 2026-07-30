@@ -9,29 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution 
-{
+class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k)
+    int kthSmallest(TreeNode* root, int k) 
     {
-        int count =0;
-        int ans=-1;
-        cheak(root,k,count, ans);
-        return ans;
+        int count=0;
+        int val=-1;
+        inorder(root,count,val,k);
+        return val;
     }
-    void cheak(TreeNode* root,int k,int &count, int &ans)
+    void inorder(TreeNode* root, int &count,int &val,int &k)
     {
-        if(root==NULL||ans!=-1)
-        {
-            return;
-        }
-        cheak(root->left,k,count,ans);
+        if(root==NULL) return;
+        
+        inorder(root->left,count,val,k);
         count++;
         if(count==k)
         {
-            ans=root->val;
+            val=root->val;
             return;
         }
-        cheak(root->right,k,count, ans);
+        inorder(root->right,count,val,k);
     }
 };
