@@ -47,6 +47,7 @@ MY DSA progress
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/AsherMustafa7/DSA/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
+| [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/AsherMustafa7/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -69,6 +70,7 @@ MY DSA progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +366,7 @@ MY DSA progress
 | [0069-sqrtx](https://github.com/AsherMustafa7/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/AsherMustafa7/DSA/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
@@ -453,4 +456,8 @@ MY DSA progress
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
