@@ -39,6 +39,7 @@ MY DSA progress
 | [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AsherMustafa7/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AsherMustafa7/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0503-next-greater-element-ii) |
@@ -71,6 +72,7 @@ MY DSA progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AsherMustafa7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -369,6 +371,7 @@ MY DSA progress
 | [0069-sqrtx](https://github.com/AsherMustafa7/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/AsherMustafa7/DSA/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -440,6 +443,7 @@ MY DSA progress
 | [0021-merge-two-sorted-lists](https://github.com/AsherMustafa7/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AsherMustafa7/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -462,9 +466,18 @@ MY DSA progress
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
