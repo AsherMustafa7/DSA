@@ -59,6 +59,7 @@ MY DSA progress
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ MY DSA progress
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ MY DSA progress
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
