@@ -11,60 +11,87 @@
 class Codec {
 public:
 
-    string serialize(TreeNode* root) {
-        if (!root) return "";
+    // Serialize
+    string serialize(TreeNode* root)
+    {
+        if(root == NULL)
+            return "";
 
-        string ans;
+        string s;
         queue<TreeNode*> q;
         q.push(root);
 
-        while (!q.empty()) {
+        while(!q.empty())
+        {
             TreeNode* node = q.front();
             q.pop();
 
-            if (node) {
-                ans += to_string(node->val) + ",";
+            if(node)
+            {
+                s += to_string(node->val) + ",";
                 q.push(node->left);
                 q.push(node->right);
-            } else {
-                ans += "#,";
+            }
+            else
+            {
+                s += "N,";
             }
         }
 
-        return ans;
+        s.pop_back();          // remove last comma
+        return s;
     }
 
-    TreeNode* deserialize(string data) {
-        if (data.empty()) return nullptr;
+    // Deserialize
+    TreeNode* deserialize(string data)
+    {
+        if(data.empty())
+            return NULL;
 
-        stringstream ss(data);
-        string str;
+        vector<string> str;
+        string temp = "";
 
-        getline(ss, str, ',');
-        TreeNode* root = new TreeNode(stoi(str));
+        for(char c : data)
+        {
+            if(c == ',')
+            {
+                str.push_back(temp);
+                temp = "";
+            }
+            else
+            {
+                temp += c;
+            }
+        }
+        str.push_back(temp);
+
+        TreeNode* root = new TreeNode(stoi(str[0]));
 
         queue<TreeNode*> q;
         q.push(root);
 
-        while (!q.empty()) {
+        int i = 1;
+
+        while(!q.empty() && i < str.size())
+        {
             TreeNode* node = q.front();
             q.pop();
 
-            if (getline(ss, str, ',')) {
-                if (str != "#") {
-                    TreeNode* leftNode = new TreeNode(stoi(str));
-                    node->left = leftNode;
-                    q.push(leftNode);
-                }
+            // left child
+            if(str[i] != "N")
+            {
+                node->left = new TreeNode(stoi(str[i]));
+                q.push(node->left);
             }
+            i++;
 
-            if (getline(ss, str, ',')) {
-                if (str != "#") {
-                    TreeNode* rightNode = new TreeNode(stoi(str));
-                    node->right = rightNode;
-                    q.push(rightNode);
-                }
+            // right child
+            if(i < str.size() && str[i] != "N")
+            {
+                node->right = new TreeNode(stoi(str[i]));
+                q.push(node->right);
             }
+            i++;
         }
 
         return root;
