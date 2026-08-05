@@ -155,6 +155,7 @@ MY DSA progress
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/AsherMustafa7/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ MY DSA progress
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/AsherMustafa7/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,4 +488,8 @@ MY DSA progress
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AsherMustafa7/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
