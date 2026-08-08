@@ -74,6 +74,7 @@ MY DSA progress
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ MY DSA progress
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -350,6 +352,7 @@ MY DSA progress
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AsherMustafa7/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -475,6 +478,7 @@ MY DSA progress
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
