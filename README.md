@@ -62,6 +62,7 @@ MY DSA progress
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ MY DSA progress
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AsherMustafa7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -374,6 +376,7 @@ MY DSA progress
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/AsherMustafa7/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
