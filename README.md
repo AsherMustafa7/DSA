@@ -62,6 +62,7 @@ MY DSA progress
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
@@ -362,6 +363,7 @@ MY DSA progress
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsherMustafa7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -447,6 +449,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -457,6 +460,7 @@ MY DSA progress
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AsherMustafa7/DSA/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
