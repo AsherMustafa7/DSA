@@ -60,6 +60,7 @@ MY DSA progress
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -411,6 +412,7 @@ MY DSA progress
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsherMustafa7/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -434,6 +436,7 @@ MY DSA progress
 | [0451-sort-characters-by-frequency](https://github.com/AsherMustafa7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -503,6 +506,7 @@ MY DSA progress
 | [0621-task-scheduler](https://github.com/AsherMustafa7/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/AsherMustafa7/DSA/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -513,6 +517,7 @@ MY DSA progress
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
 | ------- |
@@ -523,12 +528,14 @@ MY DSA progress
 | [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -559,6 +566,7 @@ MY DSA progress
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
