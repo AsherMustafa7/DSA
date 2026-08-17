@@ -58,6 +58,7 @@ MY DSA progress
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
@@ -83,6 +84,7 @@ MY DSA progress
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -410,6 +412,7 @@ MY DSA progress
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
@@ -517,6 +520,7 @@ MY DSA progress
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
