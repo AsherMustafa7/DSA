@@ -68,6 +68,7 @@ MY DSA progress
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AsherMustafa7/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AsherMustafa7/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsherMustafa7/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
@@ -337,6 +338,7 @@ MY DSA progress
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Design
 |  |
 | ------- |
@@ -420,6 +422,7 @@ MY DSA progress
 | [1922-count-good-numbers](https://github.com/AsherMustafa7/DSA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsherMustafa7/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -501,6 +504,7 @@ MY DSA progress
 | [0078-subsets](https://github.com/AsherMustafa7/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AsherMustafa7/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AsherMustafa7/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsherMustafa7/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
@@ -559,6 +563,7 @@ MY DSA progress
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Lifting
 |  |
@@ -579,4 +584,8 @@ MY DSA progress
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
