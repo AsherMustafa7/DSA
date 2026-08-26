@@ -379,6 +379,7 @@ MY DSA progress
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AsherMustafa7/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AsherMustafa7/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsherMustafa7/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AsherMustafa7/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -394,6 +395,7 @@ MY DSA progress
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/AsherMustafa7/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AsherMustafa7/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsherMustafa7/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
