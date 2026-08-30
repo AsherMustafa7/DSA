@@ -63,6 +63,7 @@ MY DSA progress
 | [1872-stone-game-viii](https://github.com/AsherMustafa7/DSA/tree/master/1872-stone-game-viii) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AsherMustafa7/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsherMustafa7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsherMustafa7/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -535,6 +536,7 @@ MY DSA progress
 | [1903-largest-odd-number-in-string](https://github.com/AsherMustafa7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AsherMustafa7/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AsherMustafa7/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AsherMustafa7/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsherMustafa7/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsherMustafa7/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
