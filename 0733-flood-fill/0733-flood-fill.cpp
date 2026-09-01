@@ -8,24 +8,34 @@ public:
         {
             return image;
         }
-        dfs(filled,image,sr,sc,color,intcolor);
+        bfs(filled,image,sr,sc,color,intcolor);
         return filled;
     }
-    void dfs(vector<vector<int>>&filled,vector<vector<int>>&image,int sr,int sc,int &color,int &intcolor)
+    void bfs(vector<vector<int>>&filled,vector<vector<int>>&image,int sr,int sc,int &color,int &intcolor)
     {
         filled[sr][sc]=color;
         int n =image.size();
         int m=image[0].size();
         int ar[]={0,0,-1,1};
         int cr[]={-1,1,0,0};
-        for(int i =0;i<4;i++)
+        queue<pair<int, int>>q;
+        q.push({sr,sc});
+        while(!q.empty())
         {
-            int nrow=sr+ar[i];
-            int ncol=sc+cr[i];
-            if(nrow>=0 &&ncol>=0 && nrow<n && ncol<m && image[nrow][ncol]==intcolor && filled[nrow][ncol]==intcolor)
+            int row=q.front().first;
+            int col=q.front().second;
+            q.pop();
+            for(int i =0;i<4;i++)
             {
-                dfs(filled,image,nrow,ncol,color,intcolor);
+                int nrow=row+ar[i];
+                int ncol=col+cr[i];
+                if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && image[nrow][ncol]==intcolor && filled[nrow][ncol]==intcolor)
+                {
+                    filled[nrow][ncol]=color;
+                    q.push({nrow,ncol});
+                }
             }
         }
+        
     }
 };
