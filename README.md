@@ -180,6 +180,7 @@ MY DSA progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AsherMustafa7/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AsherMustafa7/DSA/tree/master/0733-flood-fill) |
@@ -198,6 +199,7 @@ MY DSA progress
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AsherMustafa7/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AsherMustafa7/DSA/tree/master/0733-flood-fill) |
@@ -587,6 +589,7 @@ MY DSA progress
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AsherMustafa7/DSA/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/AsherMustafa7/DSA/tree/master/3310-remove-methods-from-project) |
 ## Database
 |  |
@@ -630,4 +633,5 @@ MY DSA progress
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AsherMustafa7/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
