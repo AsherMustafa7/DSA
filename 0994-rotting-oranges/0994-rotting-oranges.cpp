@@ -12,6 +12,7 @@ public:
             {
                 if(grid[i][j]==2)
                 {
+                    vis[i][j] = 1; 
                     q.push({i,j});
                 }
             }
@@ -40,8 +41,7 @@ public:
                     int col=q.front().second;
                     q.pop();
                     
-                    vis[row][col]=1;
-                    grid[row][col]=2;
+                    
                     int ar[]={0,0,-1,1};
                     int cr[]={-1,1,0,0};
                     for(int i =0;i<4;i++)
