@@ -36,6 +36,7 @@ MY DSA progress
 | [0169-majority-element](https://github.com/AsherMustafa7/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AsherMustafa7/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AsherMustafa7/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/AsherMustafa7/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/AsherMustafa7/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0283-move-zeroes) |
@@ -171,6 +172,7 @@ MY DSA progress
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AsherMustafa7/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AsherMustafa7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AsherMustafa7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -191,6 +193,7 @@ MY DSA progress
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AsherMustafa7/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AsherMustafa7/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AsherMustafa7/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -476,6 +479,7 @@ MY DSA progress
 | [0048-rotate-image](https://github.com/AsherMustafa7/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AsherMustafa7/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AsherMustafa7/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -615,4 +619,8 @@ MY DSA progress
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
