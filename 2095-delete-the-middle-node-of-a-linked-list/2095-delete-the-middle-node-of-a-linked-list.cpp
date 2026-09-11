@@ -15,18 +15,17 @@ public:
         {
             return NULL;
         }
-        ListNode* first=head;
-        ListNode* prev=NULL;
-        ListNode* second=head;
-        while(second!=NULL && second->next!=NULL)
-        {
-            second=second->next->next;
-            prev=first;
-            first=first->next;
+        
+        ListNode* prev=head;
+        ListNode* nodea=head;
+        ListNode* nodeb=head;
+        while(nodeb!=NULL && nodeb->next != NULL)
+        {   prev=nodea;
+            nodea=nodea->next;
+            nodeb=nodeb->next->next;
         }
-        prev->next=first->next;
-        first->next=NULL;
-        delete(first);
+        prev->next=nodea->next;
+        delete(nodea);
         return head;
     }
 };
