@@ -74,6 +74,7 @@ MY DSA progress
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AsherMustafa7/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsherMustafa7/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AsherMustafa7/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsherMustafa7/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsherMustafa7/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -99,6 +100,7 @@ MY DSA progress
 | [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AsherMustafa7/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsherMustafa7/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsherMustafa7/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@ MY DSA progress
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsherMustafa7/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsherMustafa7/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/AsherMustafa7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AsherMustafa7/DSA/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -365,6 +368,7 @@ MY DSA progress
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsherMustafa7/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
