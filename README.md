@@ -60,6 +60,7 @@ MY DSA progress
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsherMustafa7/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AsherMustafa7/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AsherMustafa7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -96,6 +97,7 @@ MY DSA progress
 | [0486-predict-the-winner](https://github.com/AsherMustafa7/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AsherMustafa7/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AsherMustafa7/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -130,6 +132,7 @@ MY DSA progress
 | [0930-binary-subarrays-with-sum](https://github.com/AsherMustafa7/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AsherMustafa7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AsherMustafa7/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AsherMustafa7/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AsherMustafa7/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -368,6 +371,7 @@ MY DSA progress
 | [0704-binary-search](https://github.com/AsherMustafa7/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AsherMustafa7/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AsherMustafa7/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AsherMustafa7/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AsherMustafa7/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AsherMustafa7/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -427,6 +431,7 @@ MY DSA progress
 | [1004-max-consecutive-ones-iii](https://github.com/AsherMustafa7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/AsherMustafa7/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AsherMustafa7/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AsherMustafa7/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsherMustafa7/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsherMustafa7/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
