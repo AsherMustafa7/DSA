@@ -18,11 +18,11 @@ public:
             {
                 if(nums[l]<=target && target <nums[m])
                 {
-                    r=r-1;
+                    r=m;
                 }
                 else
                 {
-                    l=l+1;
+                    l=m+1;
                 }
             }
             else
@@ -31,7 +31,7 @@ public:
                 {
                     if(nums[m]<target && target <=nums[r])
                     {
-                        l=l+1;
+                        l=m;
                     }
                     else
                     {
