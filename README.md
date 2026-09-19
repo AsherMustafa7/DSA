@@ -467,6 +467,7 @@ MY DSA progress
 | [0877-stone-game](https://github.com/AsherMustafa7/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AsherMustafa7/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsherMustafa7/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AsherMustafa7/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/AsherMustafa7/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AsherMustafa7/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AsherMustafa7/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -671,4 +672,8 @@ MY DSA progress
 | [0128-longest-consecutive-sequence](https://github.com/AsherMustafa7/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AsherMustafa7/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AsherMustafa7/DSA/tree/master/0547-number-of-provinces) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AsherMustafa7/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
